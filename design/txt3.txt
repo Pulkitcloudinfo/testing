@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Hello!</title>
+    </head>
+
+    <body>
+        <h1>Hello Design!</h1>
+        <h2>We are learning git.</h2>
+<<<<<<< HEAD
+=======
+        <h3>learning git.</h3>
+>>>>>>> 099e4d2017ac1e6d3b676fd4f4ffe1efcfb5c778
+    </body>
+
+</html>

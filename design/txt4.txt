@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Hello!</title>
+    </head>
+
+    <body>
+        <h1>Design!</h1>
+<<<<<<< HEAD
+        <h2>We are learning Designs.</h2>
+=======
+        <h2>We are learning Adobe.</h2>
+>>>>>>> 099e4d2017ac1e6d3b676fd4f4ffe1efcfb5c778
+    </body>
+
+</html>

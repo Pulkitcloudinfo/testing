@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Hello!</title>
+    </head>
+
+    <body>
+        <h1>Design!</h1>
+        <h2>Check the logo and design.</h2>
+    </body>
+
+</html>
